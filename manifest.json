@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "SlackMe",
     "version": "1.0",
-    "description": "Simulates a click on slack every 30 seconds.",
+    "description": "Simulates a click on slack every 60 seconds.",
     "icons": {
         "48": "icons/slackme-48.png"
     },
