@@ -20,5 +20,5 @@ setInterval(
 
         selectChannel = !selectChannel;
     },
-    30000
+    60000
 );
