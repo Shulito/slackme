@@ -1,5 +1,5 @@
 # SlackMe
-Firefox add-on that simulates a click on slack every 60 seconds.
+Firefox add-on that simulates a click on slack every 5 minutes.
 
 ## Firefox
 1. Open Slack on Firefox.
